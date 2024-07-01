@@ -1,0 +1,1 @@
+Evaluating your academic performance is one of the major keys to success during college because it allows you to get to know yourself better. You can understand how you learn and study best, what subjects or tasks you have a natural talent for, where you need to put in a little extra work, and when to ask for help.
