@@ -56,7 +56,6 @@ $astat = array("Not Yet Started","On-going","Closed");
             <div class="small-box bg-light shadow-sm border">
               <div class="inner">
                 <h3><?php echo $conn->query("SELECT * FROM users")->num_rows; ?></h3>
-
                 <p>Total Users</p>
               </div>
               <div class="icon">
@@ -77,3 +76,20 @@ $astat = array("Not Yet Started","On-going","Closed");
             </div>
           </div>
       </div>
+    
+
+    <!-- Chatbot configuration script -->
+    <script>
+        window.embeddedChatbotConfig = {
+            chatbotId: "21occLWrcWKtSl2NAQCZF",
+            domain: "www.chatbase.co"
+        }
+    </script>
+
+    <!-- Chatbot embed script -->
+    <script
+        src="https://www.chatbase.co/embed.min.js"
+        chatbotId="21occLWrcWKtSl2NAQCZF"
+        domain="www.chatbase.co"
+        defer>
+    </script>
